@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 80px;
+  background-color: #e9ecef;
+}
+
+h1 {
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 12px 25px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #c92a2a;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #f03e3e;
+}
+
+button:disabled {
+  background-color: #aaa;
+  cursor: not-allowed;
+}
+
+#audioPlayback {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 500px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
