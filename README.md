@@ -2,4 +2,5 @@
 Audio Recorder for Test Voice
 
 
-<img width="1200" height="630" alt="unlimited-voice-recording" src="https://github.com/user-attachments/assets/e7b81710-cb00-40f8-ae61-0ae293de3f43" />
+<img width="1341" height="480" alt="qw" src="https://github.com/user-attachments/assets/f3136177-ecb5-403b-881b-f287e0dab88e" />
+
